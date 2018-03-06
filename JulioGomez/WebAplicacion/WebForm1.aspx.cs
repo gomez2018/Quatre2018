@@ -13,12 +13,6 @@ namespace WebAplicacion
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            WebServiceCorresponsal.WSTestAspClient servicio = new WebServiceCorresponsal.WSTestAspClient();
-
-            var corresponsal = servicio.getCorresponsal(1, "Argentina");
-
-            //lblCodCorresponsal.Text = corresponsal.CodCorresponsal.ToString();
-            //lblNombreCorresponsal.Text = corresponsal.NombreCorresponsal;
 
         }
 

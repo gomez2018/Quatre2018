@@ -13,7 +13,9 @@ namespace WebService
     public interface IWSTestAsp
     {
         [OperationContract]
-        Corresponsal getCorresponsal(int CodCorresponsal, string NombreCorresponsal);
+        List<Corresponsales> GetCorresponsales();
 
+        [OperationContract]
+        List<Oficinas> GetOficinas();
     }
 }

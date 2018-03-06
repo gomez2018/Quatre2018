@@ -65,7 +65,8 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Corresponsal.cs" />
+    <Compile Include="Corresponsales.cs" />
+    <Compile Include="Oficinas.cs" />
     <Compile Include="Service1.svc.cs">
       <DependentUpon>Service1.svc</DependentUpon>
     </Compile>
