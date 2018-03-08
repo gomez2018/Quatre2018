@@ -1,0 +1,6 @@
+D:\Julio\Hispano Soluciones\WebServiceJulioGomez\WebServiceJulioGomez\bin\WebServiceJulioGomez.dll.config
+D:\Julio\Hispano Soluciones\WebServiceJulioGomez\WebServiceJulioGomez\bin\WebServiceJulioGomez.dll
+D:\Julio\Hispano Soluciones\WebServiceJulioGomez\WebServiceJulioGomez\bin\WebServiceJulioGomez.pdb
+D:\Julio\Hispano Soluciones\WebServiceJulioGomez\WebServiceJulioGomez\obj\Debug\WebServiceJulioGomez.dll
+D:\Julio\Hispano Soluciones\WebServiceJulioGomez\WebServiceJulioGomez\obj\Debug\WebServiceJulioGomez.pdb
+D:\Julio\Hispano Soluciones\WebServiceJulioGomez\WebServiceJulioGomez\obj\Debug\WebServiceJulioGomez.csprojResolveAssemblyReference.cache
